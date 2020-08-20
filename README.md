@@ -2,7 +2,7 @@ This is Venkatesh. A Web Developer working at [Convertcart](https://www.convertc
 
 I primarily work on node.js and a little bit of react. I love to solve problems,mostle ones which become numbers at the end :stuck_out_tongue_winking_eye:.
 
-In one such attempts to problems, I have come across the [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle). I have tried hard to solve it on board first, programatically later and officially went mad :exploding_head:. So whiteboard was getting hard to erase & add queens. So I have created a way to visualize it. You can find it in my github profile.
+In one such attempts to problems, I have come across the [N-Queens problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle). I have tried hard to solve it on board first, programatically later and officially went mad :exploding_head:. Also, whiteboard was getting hard to erase & add queens. So I have created a way to visualize it. You can find it in my github profile.
 
 *Not interested in code?* How about playing the [game](https://n-queens-helper.netlify.com/).
 
