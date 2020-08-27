@@ -10,4 +10,6 @@ I wanted to learn a new language(programming as well as a spoken one). I have st
 
 I have tried to contribute to OSS, without any success. Not yet there I guess, probably :sweat_smile:. I would love to look in if there's a decent repo which I can deep dive into. Let me know of any such chances.
 
+I have a simple plan to improve. Ideas are welcome [here](https://github.com/klvenky/self-improvement-plan)
+
 Cheers :beers:
